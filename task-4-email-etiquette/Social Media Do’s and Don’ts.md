@@ -1,6 +1,6 @@
 **Social Media Do’s and Don’ts**
 
-#### **✅ Do’s**
+#### ** Do’s**
 
 * **Think before you post — make sure your content is appropriate and respectful.**
 
@@ -12,7 +12,7 @@
 
 * **Maintain a positive digital footprint — post content that reflects your values and professionalism.**
 
-#### **❌ Don’ts**
+#### ** Don’ts**
 
 * **Don’t share sensitive personal details publicly.**
 
